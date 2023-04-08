@@ -1,0 +1,10 @@
+com\yellowmonkey\biometrico\services\iclockTransactionService.class
+com\yellowmonkey\biometrico\BiometricoApplication.class
+com\yellowmonkey\biometrico\services\personnelEmployeeService.class
+com\yellowmonkey\biometrico\repositories\personnelEmployeeRepository.class
+com\yellowmonkey\biometrico\repositories\iclockTransactionRepository.class
+com\yellowmonkey\biometrico\controllers\iclockTransactionController.class
+com\yellowmonkey\biometrico\entities\iclockTransaction.class
+com\yellowmonkey\biometrico\entities\personnelEmployee.class
+com\yellowmonkey\biometrico\controllers\personnelEmployeeController.class
+com\yellowmonkey\biometrico\RecordNotFoundException.class
